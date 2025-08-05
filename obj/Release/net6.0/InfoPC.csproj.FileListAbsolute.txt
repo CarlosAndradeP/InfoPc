@@ -1,0 +1,5 @@
+C:\Users\Priorize\Downloads\Projetos\Teste\InfoPC\obj\Release\net6.0\InfoPC.csproj.AssemblyReference.cache
+C:\Users\Priorize\Downloads\Projetos\Teste\InfoPC\obj\Release\net6.0\InfoPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priorize\Downloads\Projetos\Teste\InfoPC\obj\Release\net6.0\InfoPC.AssemblyInfoInputs.cache
+C:\Users\Priorize\Downloads\Projetos\Teste\InfoPC\obj\Release\net6.0\InfoPC.AssemblyInfo.cs
+C:\Users\Priorize\Downloads\Projetos\Teste\InfoPC\obj\Release\net6.0\InfoPC.csproj.CoreCompileInputs.cache
